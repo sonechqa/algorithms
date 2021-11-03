@@ -1,0 +1,17 @@
+.equation {
+  display: flex;
+  align-items: center;
+}
+.text {
+  margin-left: 10px;
+}
+
+.text:not(:last-child) {
+  margin-right: 10px;
+}
+
+input {
+  width: 30px;
+  font-size: 15px;
+  text-align: center;
+}
