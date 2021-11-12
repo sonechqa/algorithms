@@ -1,0 +1,16 @@
+.sides {
+  display: flex;
+  justify-content: space-around;
+}
+
+input {
+  width: 30px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.result {
+  border: solid 1px black;
+  margin-top: 50px;
+  margin-left: 50px;
+}
