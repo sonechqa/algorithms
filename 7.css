@@ -10,7 +10,16 @@ input {
 }
 
 .result {
-  border: solid 1px black;
   margin-top: 50px;
   margin-left: 50px;
+}
+
+.colors {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+
+.hex {
+  margin-top: 50px;
 }
